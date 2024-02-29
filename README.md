@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, My name is Code Fighters</h1>
 
-<h3 align="center">A passionate fullstack developers</h3>
+<h3 align="center">Passionate fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CodeFighters18&label=Profile%20views&color=0e75b6&style=flat" alt="CodeFighters18" /> </p>
 
